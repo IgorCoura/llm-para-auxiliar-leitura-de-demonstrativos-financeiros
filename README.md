@@ -1,0 +1,1 @@
+# llm-para-auxiliar-leitura-de-demonstrativos-financeiros
